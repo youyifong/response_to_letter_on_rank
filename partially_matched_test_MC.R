@@ -1,6 +1,5 @@
 library(kyotil)
 library(robustrank)
-if(!unix()) setwd("D:/gdrive/wmw/partially_matched_rank/R/")
     
 
 # process arguments
