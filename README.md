@@ -5,4 +5,4 @@ These files were used in the Monte Carlo studies in Fong, Huang, Lemos, McElrath
 
 References:
 
-Fong, Huang, Lemos, McElrath (2018) Response to Guo et al.'s letter to the editor. Submitted to Biostatistics.
+Fong, Huang, Lemos, McElrath (2018) Response to Guo et al.'s letter to the editor. Biostatistics, accepted.
